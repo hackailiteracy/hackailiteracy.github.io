@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Hack Beyond the Code: Building a Toolbox of Human-Centred Strategies for AI Literacy
-### Cleo Schulten, Li Yuan, Kiev Gama, Wayne Holmes, Alexander Nolte, Tore Hoel, Irene-Angelica Chounta
+### Organizers: Cleo Schulten, Li Yuan, Kiev Gama, Wayne Holmes, Alexander Nolte, Tore Hoel, Irene-Angelica Chounta
 
 
 - Hack Beyond the Code is a full-day workshop that will take place during AIED 2024, in Recife, Brazil.

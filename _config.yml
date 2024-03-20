@@ -1,7 +1,7 @@
 title: Hack Beyond the Code
 logo: /assets/img/hackAILiteracy.png
 description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0
