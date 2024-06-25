@@ -8,7 +8,7 @@ layout: default
 
 - **[WHEN:]** Hack Beyond the Code is a full-day workshop that will take place on **Friday, July 12, 2024** during AIED 2024, in Recife, Brazil. The workshop will be organized following a **hackathon** format.
 - **[WHERE:]** The hackathon will take place as a **hybrid** event. More information regarding the on-site and online participation will be shared with the registered participants via email.
-- **[REGISTER:]** If you want to register for the hackathon please fill in the [registration form](https://tinyurl.com/4w6eshjb) by July 11th, 2024: [https://tinyurl.com/4w6eshjb](https://tinyurl.com/4w6eshjb)
+- **[REGISTER:]** If you want to register for the hackathon please fill in the [registration form](https://forms.gle/svzbaYnozoGtUA4H9) by July 11th, 2024: [https://forms.gle/svzbaYnozoGtUA4H9](https://forms.gle/svzbaYnozoGtUA4H9)
 - **[CONTACT]** To facilitate communication, we have establish a Discord server that you can access before, during and after the event. Join us on [Discord](https://discord.gg/yRhBD56DUA )
 
 
