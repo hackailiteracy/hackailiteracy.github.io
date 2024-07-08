@@ -20,12 +20,12 @@ layout: default
 | ----------------- | ------------- | ------------------------------------------------------------------------------ |
 | Morning Session   | 9:00 - 10:00  | Welcoming, schedule and logistics                                              |
 |                   | 10:00 - 10:15 | Impulse talk: Felipe Cadena - Executive secretary of digital transformation (City of Recife) |
-|                   | 10:15 - 10:30 | Impulse talk: Li Yuan                                                                 |
+|                   | 10:15 - 10:30 | Impulse talk: Li Yuan - AI Literacy: Education for building a Future-Ready Society     |
 | Coffee break      | 10:30 - 11:00 | Coffee Break + Brainstorming                                                   |
 |                   | 11:00 - 12:00 | AI literacy scenarios and discussion                                                       |
 |                   | 12:00 - 13:00 | Team formation                                                                 |
 | Lunch break       | 13:00 - 14:00 | Lunch break                                                                    |
-| Afternoon session | 14:00 - 14:15 | Team presentation                                                              |
+| Afternoon session | 14:00 - 14:15 | Team presentations                                                             |
 |                   | 14:15 - 15:30 | Team working time                                                              |
 | Coffee break      | 15:30 - 16:00 | Coffee break                                                                   |
 |                   | 16:00 - 17:00 | Team working time                                                              |
