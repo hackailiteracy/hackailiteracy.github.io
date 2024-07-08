@@ -8,3 +8,4 @@ theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0
 title: Hack Beyond the Code
 description: AIED 2024 - Full-Day Workshop
+markdown: GFM
