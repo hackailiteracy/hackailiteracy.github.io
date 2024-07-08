@@ -17,7 +17,7 @@ layout: default
 **Event Schedule**
 | Session           | Time          | Agenda                                                                         | 
 | ----------------- | ------------- | ------------------------------------------------------------------------------ |
-| Morning Session   | 9:00 - 9:15   | Arriving + filling out Cleos questionnaire                                     |
+| Morning Session   | 9:00 - 9:15   | Arriving + Pre-event questionnaire                                             |
 |                   | 9:15 - 10:00  | Welcoming, schedule and logistics                                              |
 |                   | 10:00 - 10:15 | Felipe Cadena - Executive secretary of digital transformation (City of Recife) |
 |                   | 10:15 - 10:30 | “Impulse” talk                                                                 |
@@ -30,7 +30,7 @@ layout: default
 | Coffee break      | 15:30 - 16:00 | Coffee break                                                                   |
 |                   | 16:00 - 17:00 | Team working time                                                              |
 |                   | 17:00 - 17:30 | Team final presentation                                                        |
-| Closing session   | 17:30 - 18:00 | Reflection and future plans<br><br>(Time for post-survey)                      |
+| Closing session   | 17:30 - 18:00 | Reflection and future plans                                                    |
 
 
 > **Event Description**: The "Hack Beyond the Code" workshop is an interactive full-day event designed as a hackathon, where participants will have the opportunity to contribute to a toolbox aimed at supporting educators in teaching AI Literacy and students in learning or practicing it.
