@@ -10,18 +10,19 @@ layout: default
 - **[WHERE:]** The hackathon will take place as a **hybrid** event. More information regarding the on-site and online participation will be shared with the registered participants via email.
 
 **Important Links**
-- **[REGISTRATION:]** If you want to register for the hackathon please fill in the [registration form](https://forms.gle/svzbaYnozoGtUA4H9) by July 11th, 2024: [https://forms.gle/svzbaYnozoGtUA4H9](https://forms.gle/svzbaYnozoGtUA4H9)
-- **[CONTACT:]** To facilitate communication, we have establish a Discord server that you can access before, during and after the event. Join us on [Discord](https://discord.gg/yRhBD56DUA )
+- **[Registration:]** If you want to register for the hackathon please fill in the [registration form](https://forms.gle/svzbaYnozoGtUA4H9) by July 11th, 2024: [https://forms.gle/svzbaYnozoGtUA4H9](https://forms.gle/svzbaYnozoGtUA4H9)
+- **[Contact:]** To facilitate communication, we have establish a Discord server that you can access before, during and after the event. Join us on [Discord](https://discord.gg/yRhBD56DUA )
 - **[GitHub:]** https://bit.ly/aied2024github
+- **[Discord:]** https://bit.ly/aied2024discord
 
 **Event Schedule**
 | Session           | Time          | Agenda                                                                         | 
 | ----------------- | ------------- | ------------------------------------------------------------------------------ |
 | Morning Session   | 9:00 - 10:00  | Welcoming, schedule and logistics                                              |
-|                   | 10:00 - 10:15 | Felipe Cadena - Executive secretary of digital transformation (City of Recife) |
-|                   | 10:15 - 10:30 | Impulse talk                                                                 |
+|                   | 10:00 - 10:15 | Impulse talk: Felipe Cadena - Executive secretary of digital transformation (City of Recife) |
+|                   | 10:15 - 10:30 | Impulse talk: Li Yuan                                                                 |
 | Coffee break      | 10:30 - 11:00 | Coffee Break + Brainstorming                                                   |
-|                   | 11:00 - 12:00 | Scenarios and discussion                                                       |
+|                   | 11:00 - 12:00 | AI literacy scenarios and discussion                                                       |
 |                   | 12:00 - 13:00 | Team formation                                                                 |
 | Lunch break       | 13:00 - 14:00 | Lunch break                                                                    |
 | Afternoon session | 14:00 - 14:15 | Team presentation                                                              |
