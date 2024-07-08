@@ -17,10 +17,9 @@ layout: default
 **Event Schedule**
 | Session           | Time          | Agenda                                                                         | 
 | ----------------- | ------------- | ------------------------------------------------------------------------------ |
-| Morning Session   | 9:00 - 9:15   | Arriving + Pre-event questionnaire                                             |
-|                   | 9:15 - 10:00  | Welcoming, schedule and logistics                                              |
+| Morning Session   | 9:00 - 10:00  | Welcoming, schedule and logistics                                              |
 |                   | 10:00 - 10:15 | Felipe Cadena - Executive secretary of digital transformation (City of Recife) |
-|                   | 10:15 - 10:30 | “Impulse” talk                                                                 |
+|                   | 10:15 - 10:30 | Impulse talk                                                                 |
 | Coffee break      | 10:30 - 11:00 | Coffee Break + Brainstorming                                                   |
 |                   | 11:00 - 12:00 | Scenarios and discussion                                                       |
 |                   | 12:00 - 13:00 | Team formation                                                                 |
@@ -29,7 +28,7 @@ layout: default
 |                   | 14:15 - 15:30 | Team working time                                                              |
 | Coffee break      | 15:30 - 16:00 | Coffee break                                                                   |
 |                   | 16:00 - 17:00 | Team working time                                                              |
-|                   | 17:00 - 17:30 | Team final presentation                                                        |
+|                   | 17:00 - 17:30 | Team final presentations                                                       |
 | Closing session   | 17:30 - 18:00 | Reflection and future plans                                                    |
 
 
