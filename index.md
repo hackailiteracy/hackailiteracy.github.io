@@ -12,7 +12,7 @@ layout: default
 **Important Links**
 - **[Registration:]** If you want to register for the hackathon please fill in the [registration form](https://forms.gle/svzbaYnozoGtUA4H9) by July 11th, 2024: [https://forms.gle/svzbaYnozoGtUA4H9](https://forms.gle/svzbaYnozoGtUA4H9)
 - **[Contact:]** To facilitate communication, we have establish a Discord server that you can access before, during and after the event. Join us on [Discord](https://discord.gg/yRhBD56DUA )
-- **[GitHub:]** https://bit.ly/aied2024github
+- **[GitHub:]** https://bit.ly/aied2024github If you need instructions on how to use GitHub, check out the tutorials here -> https://demo.colaps.team/hack-participant-kit 
 - **[Discord:]** https://bit.ly/aied2024discord
 
 **Event Schedule**
